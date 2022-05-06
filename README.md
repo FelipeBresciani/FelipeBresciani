@@ -1,3 +1,6 @@
+## 👋 Oi, eu sou o Felipe Bresciani
+- 👀 estou interessado em aprender desenvolvimento de sistemas web e iniciar uma carreira na área.
+- 🌱 Atualmente estou aprendendo a programar na Trybe.
 
 <div align="center">
   <a href="https://github.com/FelipeBresciani">
@@ -5,6 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBresciani&layout=compact&langs_count=7&theme=nightowl"/>
 <div style="display: inline_block">
   <br>
+<h1>
   <img align="center" alt="Felipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Felipe-Python" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </div>
