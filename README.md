@@ -1,7 +1,7 @@
 ## 👋 Oi, eu sou o Felipe Bresciani
 - 👀 estou interessado em aprender desenvolvimento de sistemas web e iniciar uma carreira na área.
 - 🌱 Atualmente estou aprendendo a programar na Trybe.
-
+- 🎮 Apaixonado por jogos.
 <div align="center">
   <a href="https://github.com/FelipeBresciani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBresciani&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBresciani&layout=compact&langs_count=7&theme=nightowl"/>
