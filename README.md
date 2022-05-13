@@ -5,11 +5,17 @@
 - 👀 estou interessado em aprender desenvolvimento de sistemas web e iniciar uma carreira na área.
 - 🌱 Atualmente estou aprendendo a programar na Trybe.
 - 🎮 Apaixonado por jogos.
-<div align="center">
-  <a href="https://github.com/FelipeBresciani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBresciani&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBresciani&layout=compact&langs_count=7&theme=nightowl"/>
-<div style="display: inline_block"><br>
+
+<p align = "center">
+<a href="https://github.com/FelipeBresciani">
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=FelipeBresciani&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBresciani&layout=compact&langs_count=16&theme=tokyonight" /> </a>
+</p>
+
+    
+    
+    
+    <div style="display: inline_block"><br>
 <h1>
 <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
