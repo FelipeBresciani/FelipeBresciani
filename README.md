@@ -8,8 +8,8 @@
 
 <p align = "center">
 <a href="https://github.com/FelipeBresciani">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeBresciani&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBresciani&layout=compact&langs_count=16&theme=tokyonight" /> </a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeBresciani&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBresciani&layout=compact&langs_count=16&theme=tokyonight" /> </a>
 </p>
 
     
